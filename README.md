@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | [Emblems](https://github.com/serene-solidarity/emblems) | 
 
 | [True Hindsight](https://github.com/true-hindsight) |
-|:---|:---|
+|:---|
 | [2020-06](https://github.com/true-hindsight/2020-06) | 
 | [Grim Realities](https://github.com/true-hindsight/grim-realities) | 
 | [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) | 
