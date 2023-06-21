@@ -15,25 +15,16 @@ Here are some ideas to get you started:
 
 ## Articles and non-software related work
 
-**| [Serene Solidarity](https://github.com/serene-solidarity) :** [Emblems](https://github.com/serene-solidarity/emblems) **|**
+**[Serene Solidarity](https://github.com/serene-solidarity) :** [Emblems](https://github.com/serene-solidarity/emblems) 
 
-**| [True Hindsight](https://github.com/true-hindsight) :** [2020-06](https://github.com/true-hindsight/2020-06) · [Grim Realities](https://github.com/true-hindsight/grim-realities) · [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) **|** 
-
-
-**| [True Foresight](https://github.com/true-foresight) :** [2020-06](https://github.com/true-foresight/2020-06) · [2020-07](https://github.com/true-foresight/2020-07) · [2020-10](https://github.com/true-foresight/2020-10) **|** 
+**[True Hindsight](https://github.com/true-hindsight) :** [2020-06](https://github.com/true-hindsight/2020-06) · [Grim Realities](https://github.com/true-hindsight/grim-realities) · [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) 
 
 
-**| [True4All](https://github.com/true4all) :** [Caregivers](https://github.com/caregivers) · [rel](https://github.com/rel) **|** 
+**[True Foresight](https://github.com/true-foresight) :** [2020-06](https://github.com/true-foresight/2020-06) · [2020-07](https://github.com/true-foresight/2020-07) · [2020-10](https://github.com/true-foresight/2020-10) 
 
-| [callThis](https://github.com/callthis) | 
-|:---|
-| [Fiction](https://github.com/callthis/fiction) | 
-| [News](https://github.com/callthis/news) |
-| [Editorial](https://github.com/callthis/editorial) |
-| [Tabloid](https://github.com/callthis/tabloid) |
-| [Status Quo](https://github.com/callthis/status-quo) |
 
-| [Just Noticeable](https://github.com/just-noticeable) | 
-|:---|
-| [farce](https://github.com/just-noticeable/farce) | 
-| [ISR](https://github.com/just-noticeable/isr) |
+**[True4All](https://github.com/true4all) :** [Caregivers](https://github.com/caregivers) · [rel](https://github.com/rel)  
+
+**[callThis](https://github.com/callthis) :** [Fiction](https://github.com/callthis/fiction) · [News](https://github.com/callthis/news) · [Editorial](https://github.com/callthis/editorial) · [Tabloid](https://github.com/callthis/tabloid) · [Status Quo](https://github.com/callthis/status-quo) 
+
+**[Just Noticeable](https://github.com/just-noticeable) :** [farce](https://github.com/just-noticeable/farce) · [ISR](https://github.com/just-noticeable/isr) 
