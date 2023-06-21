@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 ## Table of Contents
 
-<uo>
-<li><h4><a href="https://github.com/true-hindsight">True Hindsight</a></h4></li>
+- ### [True Hindsight](https://github.com/true-hindsight)
 
- <uo>
- <li><h4><a href="https://github.com/true-hindsight/2020-06">2020-06</a></h4></li>
+  - #### [2020-06](https://github.com/true-hindsight/2020-06)
  
- <li><h4><a href="https://github.com/true-hindsight/grim-realities">Grim Realities</a></h4></li>
-
- <li><h4><a href="https://github.com/true-hindsight/long-overdue-justice">Long Overdue Justice</a></h4></li>
- </uo>
+  - #### [Grim Realities](https://github.com/true-hindsight/grim-realities)
+  
+  - #### [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice)
 
 <li><h4><a href="https://github.com/true-foresight">True Foresight</a></h4></li>
 
