@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## Articles and non-software related work
 
-## Table of Contents
+- ### [Serene Solidarity](https://github.com/serene-solidarity)
+
+  - #### [Emblems](https://github.com/serene-solidarity/emblems)
 
 - ### [True Hindsight](https://github.com/true-hindsight)
 
@@ -28,40 +30,31 @@ Here are some ideas to get you started:
 - ### [True Foresight](https://github.com/true-foresight)
 
   - #### [2020-06](https://github.com/true-foresight/2020-06)
- 
+  
   - #### [2020-07](https://github.com/true-foresight/2020-07)
   
   - #### [2020-10](https://github.com/true-foresight/2020-10)
 
-<li><h4><a href="https://github.com/true4all">True4All</a></h4></li>
+- ### [True4All](https://github.com/true4all)
 
- <uo>
- <li><h4><a href="https://github.com/true4all/caregivers">Caregivers</a></h4></li>
- 
- <li><h4><a href="https://github.com/true4all/rel">rel</a></h4></li>
+  - #### [Caregivers](https://github.com/caregivers)
+  
+  - #### [rel](https://github.com/rel)
 
- </uo>
+- ### [callThis](https://github.com/callthis)
 
-<li><h4><a href="https://github.com/callthis">callThis</a></h4></li>
+  - #### [Fiction](https://github.com/callthis/fiction)
+  
+  - #### [News](https://github.com/callthis/news)
+  
+  - #### [Editorial](https://github.com/callthis/editorial)
+  
+  - #### [Tabloid](https://github.com/callthis/tabloid)
+  
+  - #### [Status Quo](https://github.com/callthis/status-quo)
 
- <uo>
- <li><h4><a href="https://github.com/callthis/fiction">Fiction</a></h4></li>
- 
- <li><h4><a href="https://github.com/callthis/news">News</a></h4></li>
- 
- <li><h4><a href="https://github.com/callthis/editorial">Editorial</a></h4></li>
- 
- <li><h4><a href="https://github.com/callthis/tabloid">Tabloid</a></h4></li>
- 
- <li><h4><a href="https://github.com/callthis/status-quo">Status Quo</a></h4></li>
+- ### [callThis](https://github.com/just-noticeable)
 
- </uo>
- 
-<li><h4><a href="https://github.com/just-noticeable">Just Noticeable</a></h4></li>
-
- <uo>
- <li><h4><a href="https://github.com/just-noticeable/farce">Farce</a></h4></li>
- 
- <li><h4><a href="https://github.com/just-noticeable/isr">ISR</a></h4></li>
- </uo>
-</uo>
+  - #### [farce](https://github.com/just-noticeable/farce)
+  
+  - #### [ISR](https://github.com/just-noticeable/isr)
