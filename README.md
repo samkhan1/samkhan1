@@ -15,25 +15,17 @@ Here are some ideas to get you started:
 
 ## Articles and non-software related work
 
-- ### [Serene Solidarity](https://github.com/serene-solidarity)
+| ### [Serene Solidarity](https://github.com/serene-solidarity) | 
+|---|
+|  #### [Emblems](https://github.com/serene-solidarity/emblems) | 
 
-  - #### [Emblems](https://github.com/serene-solidarity/emblems)
 
-- ### [True Hindsight](https://github.com/true-hindsight)
+| ### [True Hindsight](https://github.com/true-hindsight) | ### [True Foresight](https://github.com/true-foresight) |
+|---|---|
+|  #### [2020-06](https://github.com/true-hindsight/2020-06) | #### [2020-06](https://github.com/true-foresight/2020-06) |
+|  #### [Grim Realities](https://github.com/true-hindsight/grim-realities) |  #### [2020-07](https://github.com/true-foresight/2020-07) |
+|  #### [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) |  #### [2020-10](https://github.com/true-foresight/2020-10) |
 
-  - #### [2020-06](https://github.com/true-hindsight/2020-06)
- 
-  - #### [Grim Realities](https://github.com/true-hindsight/grim-realities)
-  
-  - #### [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice)
-  
-- ### [True Foresight](https://github.com/true-foresight)
-
-  - #### [2020-06](https://github.com/true-foresight/2020-06)
-  
-  - #### [2020-07](https://github.com/true-foresight/2020-07)
-  
-  - #### [2020-10](https://github.com/true-foresight/2020-10)
 
 - ### [True4All](https://github.com/true4all)
 
@@ -53,7 +45,7 @@ Here are some ideas to get you started:
   
   - #### [Status Quo](https://github.com/callthis/status-quo)
 
-- ### [callThis](https://github.com/just-noticeable)
+- ### [Just Noticeable](https://github.com/just-noticeable)
 
   - #### [farce](https://github.com/just-noticeable/farce)
   
