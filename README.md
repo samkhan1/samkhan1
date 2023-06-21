@@ -19,11 +19,16 @@ Here are some ideas to get you started:
 |:---|
 | [Emblems](https://github.com/serene-solidarity/emblems) | 
 
-| [True Hindsight](https://github.com/true-hindsight) | [True Foresight](https://github.com/true-foresight) | [True4All](https://github.com/true4all) |
-|:---|:---|:---|
-| [2020-06](https://github.com/true-hindsight/2020-06) | [2020-06](https://github.com/true-foresight/2020-06) | [Caregivers](https://github.com/caregivers) |
-| [Grim Realities](https://github.com/true-hindsight/grim-realities) | [2020-07](https://github.com/true-foresight/2020-07) | [rel](https://github.com/rel) |
-| [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) | [2020-10](https://github.com/true-foresight/2020-10) |  |
+| [True Hindsight](https://github.com/true-hindsight) | [True Foresight](https://github.com/true-foresight) | 
+|:---|:---|
+| [2020-06](https://github.com/true-hindsight/2020-06) | [2020-06](https://github.com/true-foresight/2020-06) | 
+| [Grim Realities](https://github.com/true-hindsight/grim-realities) | 
+| [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) | [2020-10](https://github.com/true-foresight/2020-10) | 
+
+| [True4All](https://github.com/true4all) | 
+|:---|
+| [Caregivers](https://github.com/caregivers) |
+| [2020-07](https://github.com/true-foresight/2020-07) | [rel](https://github.com/rel) |
 
 | [callThis](https://github.com/callthis) | 
 |:---|
