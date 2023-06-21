@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Articles and non-software related work
 
 ## Table of Contents
-<div id="user-content-toc">
+
 <uo>
 <li><h4><a href="https://github.com/true-hindsight">True Hindsight</a></h4></li>
 
@@ -70,4 +70,3 @@ Here are some ideas to get you started:
  <li><h4><a href="https://github.com/just-noticeable/isr">ISR</a></h4></li>
  </uo>
 </uo>
-</div>
