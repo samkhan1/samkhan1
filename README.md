@@ -24,16 +24,14 @@ Here are some ideas to get you started:
   - #### [Grim Realities](https://github.com/true-hindsight/grim-realities)
   
   - #### [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice)
+  
+- ### [True Foresight](https://github.com/true-foresight)
 
-<li><h4><a href="https://github.com/true-foresight">True Foresight</a></h4></li>
-
- <uo>
- <li><h4><a href="https://github.com/true-foresight/2020-06">2020-06</a></h4></li>
+  - #### [2020-06](https://github.com/true-foresight/2020-06)
  
- <li><h4><a href="https://github.com/true-foresight/2020-07">2020-07</a></h4></li>
-
- <li><h4><a href="https://github.com/true-foresight/2020-10">2020-10</a></h4></li>
- </uo>
+  - #### [2020-07](https://github.com/true-foresight/2020-07)
+  
+  - #### [2020-10](https://github.com/true-foresight/2020-10)
 
 <li><h4><a href="https://github.com/true4all">True4All</a></h4></li>
 
