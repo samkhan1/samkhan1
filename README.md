@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 
 ## Articles and non-software related work
 
+### The Blue Pill
+
+For those who would like to download this corpus to try their skills in extracting key insights form it. 
+
+```
+Hint: Using a frequency analysis of the words in these writings, 
+including this README.md file, 
+look for words that have been used only once in the entire set of articles;
+the location of that word, is where you will find a more valuable kernel of knowledge.
+```
+
 **[Serene Solidarity](https://github.com/serene-solidarity) :** [Emblems](https://github.com/serene-solidarity/emblems) 
 
 **[True Hindsight](https://github.com/true-hindsight) :** [2020-06](https://github.com/true-hindsight/2020-06) · [Grim Realities](https://github.com/true-hindsight/grim-realities) · [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) 
@@ -28,3 +39,18 @@ Here are some ideas to get you started:
 **[callThis](https://github.com/callthis) :** [Declassified](https://github.com/orgs/callthis/discussions) · [News](https://github.com/callthis/news) · [Editorial](https://github.com/callthis/editorial) · [Tabloid](https://github.com/callthis/tabloid) · [Status Quo](https://github.com/callthis/status-quo) · [Fiction](https://github.com/callthis/fiction) 
 
 **[Just Noticeable](https://github.com/just-noticeable) :** [farce](https://github.com/just-noticeable/farce) · [ISR](https://github.com/just-noticeable/isr) 
+
+
+### The Red Pill
+
+Venturing into this choose your own adventure style mixed-media-art might only be useful and exciting for those who are a king at spelunking, within below the sea cave networks. 
+
+Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
+
+[**Why wars happen**](https://tinyurl.com/why-wars-happen)
+
+
+### The Crimson + Purple Pill
+
+**Gists:** https://gist.github.com/samkhan1/ 
+
