@@ -40,6 +40,7 @@ the location of that word, is where you will find a more valuable kernel of know
 
 **[Just Noticeable](https://github.com/just-noticeable) :** [farce](https://github.com/just-noticeable/farce) · [ISR](https://github.com/just-noticeable/isr) 
 
+---
 
 ### The Red Pill
 
@@ -49,6 +50,7 @@ Or, if you think you can chase a rabbit down its rabbit hole like a python or an
 
 [**Why wars happen**](https://tinyurl.com/why-wars-happen)
 
+---
 
 ### The Crimson + Purple Pill
 
