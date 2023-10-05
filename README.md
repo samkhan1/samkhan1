@@ -44,7 +44,7 @@ the location of that word, is where you will find a more valuable kernel of know
 
 ### The Red Pill
 
-Venturing into this choose your own adventure style mixed-media-art might only be useful and exciting for those who are a king at spelunking, within below the sea cave networks. 
+Venturing into this "choose your own adventure" style mixed-media-art, might only be useful and exciting for those who are a king at spelunking, within below the sea cave networks. 
 
 Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
 
