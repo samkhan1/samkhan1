@@ -25,8 +25,8 @@ Hint:
 Using a frequency analysis of the words in these writings, 
 including this README.md file, 
 look for greater than six lettered words, 
-that have been used only once in the entire set of articles;
-the location of that word, is where you will find a more valuable kernel of knowledge.
+that have been used only once in the entire set of articles.
+The location of that word, is where you will find a more valuable kernel of knowledge.
 ```
 
 **[Serene Solidarity](https://github.com/serene-solidarity) :** [Emblems](https://github.com/serene-solidarity/emblems) 
