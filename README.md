@@ -51,7 +51,7 @@ Venturing into this "choose your own adventure" style mixed-media-art, might onl
 
 Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
 
-[**Why wars happen**](https://tinyurl.com/why-wars-happen)
+**Question:** [Why wars happen](https://tinyurl.com/why-wars-happen)
 
 ---
 
