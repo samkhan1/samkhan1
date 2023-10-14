@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 For those who would like to download this corpus to try their skills in extracting key insights form it. 
 
 ```
-Hint: Using a frequency analysis of the words in these writings, 
+Hint: 
+
+Using a frequency analysis of the words in these writings, 
 including this README.md file, 
-look for words that have been used only once in the entire set of articles;
+look for greater than six lettered words, 
+that have been used only once in the entire set of articles;
 the location of that word, is where you will find a more valuable kernel of knowledge.
 ```
 
