@@ -43,8 +43,6 @@ The location of that word, is where you will find a more valuable kernel of know
 
 **[Just Noticeable](https://github.com/just-noticeable) :** [farce](https://github.com/just-noticeable/farce) · [ISR](https://github.com/just-noticeable/isr) · [damroo](https://github.com/just-noticeable/damroo) 
 
-**[My Realm](https://github.com/my-realm) :** [Depth First](https://github.com/my-realm/depth-first/) · [Breadth First](https://github.com/my-realm/depth-first/) · [OC](https://github.com/my-realm/oc/tree/master/doc) · [Musings](https://github.com/my-realm/musings/tree/main) 
-
 ---
 
 ### The Red Pill
@@ -53,12 +51,20 @@ Venturing into this particular, "choose your own adventure" style mixed-media-ar
 
 Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
 
-**Question:** [Why wars happen](https://tinyurl.com/why-wars-happen)
+**Question:** [Why wars happen](https://tinyurl.com/why-wars-happen) 
+
+**Answer:** Basically, when it is too inconvenient not to have wars, they do start. 
 
 ---
 
 ### The Crimson + Purple Pill
 
-**Gists:** https://gist.github.com/samkhan1/ 
+#### Crimson  
+
+- **[My Realm](https://github.com/my-realm) :** [Depth First](https://github.com/my-realm/depth-first/) · [Breadth First](https://github.com/my-realm/depth-first/) · [OC](https://github.com/my-realm/oc/tree/master/doc) · [Musings](https://github.com/my-realm/musings/tree/main) 
+
+#### Purple  
+
+- **Gists:** https://gist.github.com/samkhan1/ 
 
    
