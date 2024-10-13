@@ -51,9 +51,9 @@ Venturing into this particular, "choose your own adventure" style mixed-media-ar
 
 Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
 
-**Question:** [Why wars happen](https://tinyurl.com/why-wars-happen) 
+**Question:** [Why do wars happen?](https://tinyurl.com/why-wars-happen) 
 
-**Answer:** Basically, when it is too inconvenient not to have wars, they do start. 
+**Answer:** Basically, when it becomes too inconvenient not to have a war, one tends to start. And also because many of the previous ones that had started a long time ago, never ended, they are simply ongoing, perpetual wars. 
 
 ---
 
