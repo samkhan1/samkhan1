@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 For those who would like to download this corpus to try their skills in extracting key insights form it. 
 
 ```
-Hint: 
+Prompt: 
 
 Using a frequency analysis of the words in these writings, 
 including this README.md file, 
@@ -47,7 +47,7 @@ The location of that word, is where you will find a more valuable kernel of know
 
 ### The Red Pill
 
-Venturing into this particular, "choose your own adventure" style mixed-media-art, might only be useful and exciting for those who are a king at spelunking, within below-the-sea cave networks. 
+Venturing into this particular, "choose your own adventure" style mixed-media-art, might only be useful and exciting for those who are a king, at spelunking, within cave networks hidden under-the-sea. 
 
 Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
 
@@ -58,6 +58,8 @@ Or, if you think you can chase a rabbit down its rabbit hole like a python or an
 ---
 
 ### The Crimson + Purple Pill
+
+I said, crimson plus purple! Not, deep red plus ultra marine. 
 
 #### Crimson  
 
