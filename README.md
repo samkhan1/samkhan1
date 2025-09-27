@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Contact 
+
+- 📫 How to reach me: 
+
+	DM at [https://x.com/psyedout](https://x.com/psyedout) 
+	
+	I use it infrequently, but I do check my DMs on x[dot]com, at least once a month.
+
 ## Articles and non-software related work
 
 ### The Blue Pill
@@ -47,11 +55,11 @@ The location of that word, is where you will find a more valuable kernel of know
 
 ### The Red Pill
 
-Venturing into this particular, "choose your own adventure" style mixed-media-art, might only be useful and exciting for those who are a king, at spelunking, within cave networks hidden under-the-sea. 
+Venturing into this particular, "choose your own adventure style" mixed-media-art, might only be useful and exciting for those who are a king, at spelunking, within cave networks hidden under-the-sea. 
 
 Or, if you think you can chase a rabbit down its rabbit hole like a python or an anaconda, then simply follow the rabbit. 
 
-**Question:** [Why do wars happen?](https://tinyurl.com/why-wars-happen) 
+**Question:** [Why do wars happen?](https://github.com/my-realm/depth-first/blob/master/martial-influencers.pdf) 
 
 **Answer:** Basically, when it becomes too inconvenient not to have a war, one tends to start. And also because many of the previous ones that had started a long time ago, never ended, they are simply ongoing, perpetual wars. 
 
@@ -59,11 +67,11 @@ Or, if you think you can chase a rabbit down its rabbit hole like a python or an
 
 ### The Crimson + Purple Pill
 
-I said, crimson plus purple! Not, deep red plus ultra marine. 
+I said, crimson plus purple! Not, brick-red plus ultra-marine. 
 
 #### Crimson  
 
-- **[My Realm](https://github.com/my-realm) :** [Depth First](https://github.com/my-realm/depth-first/) · [Breadth First](https://github.com/my-realm/depth-first/) · [OC](https://github.com/my-realm/oc/tree/master/doc) · [Musings](https://github.com/my-realm/musings/tree/main) 
+- **[My Realm](https://github.com/my-realm) :** [Depth First](https://github.com/my-realm/depth-first/) · [Breadth First](https://github.com/my-realm/breadth-first) · [OC](https://github.com/my-realm/oc/tree/master?tab=readme-ov-file#oc) · [Musings](https://github.com/my-realm/musings/tree/main?tab=readme-ov-file#musings) 
 
 #### Purple  
 
