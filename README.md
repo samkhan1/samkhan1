@@ -51,6 +51,8 @@ The location of that word, is where you will find a more valuable kernel of know
 
 **[Just Noticeable](https://github.com/just-noticeable) :** [farce](https://github.com/just-noticeable/farce) · [ISR](https://github.com/just-noticeable/isr) · [damroo](https://github.com/just-noticeable/damroo) 
 
+**[samkhan1](https://github.com/samkhan1/) :** [z-utils](https://github.com/samkhan1/z-utils)
+
 ---
 
 ### The Red Pill
