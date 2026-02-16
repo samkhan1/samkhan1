@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### The Blue Pill
 
-For those who would like to download this corpus to try their skills in extracting key insights form it. 
+For those who would like to download this corpus (set of articles) to try their skills in extracting key insights form it. 
 
 ```
 Prompt: 
