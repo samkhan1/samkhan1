@@ -37,7 +37,11 @@ that have been used only once in the entire set of articles.
 The location of that word, is where you will find a more valuable kernel of knowledge.
 ```
 
-**[Serene Solidarity](https://github.com/serene-solidarity) :** [Emblems](https://github.com/serene-solidarity/emblems) 
+**[Serene Solidarity](https://github.com/serene-solidarity) :** [Earnings Calls](https://github.com/serene-solidarity/emblems) · [Options Decisions](https://github.com/lightning-chasers/options-decisions)
+
+
+**[Lightning Chasers](https://github.com/lightning-chasers) :** [Emblems](https://github.com/lightning-chasers/earnings-calls/) 
+
 
 **[True Hindsight](https://github.com/true-hindsight) :** [2020-06](https://github.com/true-hindsight/2020-06) · [Grim Realities](https://github.com/true-hindsight/grim-realities) · [Long Overdue Justice](https://github.com/true-hindsight/long-overdue-justice) · [2023-09](https://github.com/true-hindsight/2023-09) · [2023-10](https://github.com/true-hindsight/2023-10) · [2024-02](https://github.com/true-hindsight/2024-02) 
 
